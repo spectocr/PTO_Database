@@ -1,0 +1,31 @@
+{
+  "name": "pto_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spectocr/PTO_Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spectocr/PTO_Database/issues"
+  },
+  "homepage": "https://github.com/spectocr/PTO_Database#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.9",
+    "validator": "^13.6.0"
+  }
+}
