@@ -13,7 +13,7 @@
 
   ## Installation
     * To install: download from github, enter "npm start" in the command line.
-    *( Add in youtube video of system operation and meeting requirements.)
+    * Video Demo: https://youtu.be/gnf39kV5KH0
   
   ## Usage 
     * Use this program by: use it how you want.
